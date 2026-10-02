@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/be4ced56-1291-477e-9b31-15b9a5fde4aa" width="100%" alt="Sparkie's Carnival Banner" />
+<img src="https://github.com/user-attachments/assets/be4ced56-1291-477e-9b31-15b9a5fde4aa" width="65%" alt="Sparkie's Carnival Banner" />
 
 # 🎪 Sparkie's Carnival ✨
 
