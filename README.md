@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/be4ced56-1291-477e-9b31-15b9a5fde4aa" width="65%" alt="Sparkie's Carnival Banner" />
+<img src="https://github.com/user-attachments/assets/be4ced56-1291-477e-9b31-15b9a5fde4aa" width="65%" alt="Sparxie's Carnival Banner" />
 
-# 🎪 Sparkie's Carnival ✨
+# 🎪 Sparxie's Carnival ✨
 
 ### **"All that was static was just waiting to become a soundtrack."** 🎧⚡
 
@@ -14,7 +14,7 @@
 
 ## 🎭 About The Project
 
-Welcome to **Sparkie's Carnival**—a dedicated playground and release showcase for independent Android development. This repository serves as the core build house for custom applications, interactive games, and AI-assisted utility tools.
+Welcome to **Sparxie's Carnival**—a dedicated playground and release showcase for independent Android development. This repository serves as the core build house for custom applications, interactive games, and AI-assisted utility tools.
 
 Every project hosted here is focused on performance, clean design, and delivering seamless user experiences without unnecessary bloat.
 
